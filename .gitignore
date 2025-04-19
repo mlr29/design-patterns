@@ -1,0 +1,12 @@
+# Arquivos e diretórios gerados pelo Maven
+/target/
+target/maven-status/
+# Configurações locais de IDEs
+/.idea/
+/*.iml
+/.classpath
+/.project
+
+# Arquivos temporários do sistema
+*.log
+*.tmp
