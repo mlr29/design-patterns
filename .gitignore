@@ -1,6 +1,8 @@
 # Arquivos e diretórios gerados pelo Maven
 /target/
 target/maven-status/
+target/
+
 # Configurações locais de IDEs
 /.idea/
 /*.iml
@@ -10,3 +12,13 @@ target/maven-status/
 # Arquivos temporários do sistema
 *.log
 *.tmp
+
+# Configurações específicas do VS Code
+.vscode/
+
+# Arquivos de backup ou temporários
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
